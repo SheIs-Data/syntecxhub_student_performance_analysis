@@ -60,7 +60,7 @@ The final cleaned dataset was saved as an Excel workbook:
 
 ## 📈 Dashboard Structure
 
-### Page 1 — Overview
+### Page 1: Overview
 
 The Overview page provides a high-level summary of student performance.
 
@@ -80,7 +80,7 @@ The Overview page provides a high-level summary of student performance.
 
 ---
 
-### Page 2 — Performance Factors
+### Page 2: Performance Factors
 
 This page explores how student performance varies across different factors.
 
@@ -101,7 +101,7 @@ These interactive filters allow users to explore different segments of the datas
 
 ---
 
-### Page 3 — Insights & Recommendations
+### Page 3: Insights & Recommendations
 
 The final page translates the analysis into key findings and practical recommendations.
 
@@ -113,15 +113,15 @@ It focuses on answering the question:
 
 ## 🖥️ Dashboard Preview
 
-### Page 1 — Overview
+### Page 1: Overview
 
 ![Student Performance Overview](dashboard/overview_dashboard.png)
 
-### Page 2 — Performance Factors
+### Page 2: Performance Factors
 
 ![Performance Factors](dashboard/performance_factors_dashboard.png)
 
-### Page 3 — Insights & Recommendations
+### Page 3: Insights & Recommendations
 
 ![Insights and Recommendations](dashboard/insights_dashboard.png)
 
